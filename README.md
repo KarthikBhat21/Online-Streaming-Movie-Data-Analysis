@@ -1,4 +1,4 @@
-# Online-Streaming-Movie-Data-Visualization
+# Online-Streaming-Movie-Data-Analysis
 Python, Kafka, MongoDB, Tableau
 
 
